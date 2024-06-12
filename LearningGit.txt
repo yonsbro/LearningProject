@@ -1,0 +1,7 @@
+Belajar Git & Github
+Git - Version Control System di lokal komputer
+Github - version control system di web, cloud
+Hash - kode random nomor acak
+branch - Cabang dari perubahan
+Commit - perubahan yang disimpan
+
